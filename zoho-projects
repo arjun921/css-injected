@@ -1,0 +1,124 @@
+#topHePar, #tabmenu_370297000005361315 {
+    background-color: #311b92 !important;
+    box-shadow:0 5px 15px rgba(0,0,0,0.6) !important;
+    /*color: #000;*/
+}
+
+, #pop-arw, #arwLeft {
+    background: #311b92 !important;
+}
+.home-tab-morepop{
+    background-color: #311b92 !important;
+    box-shadow:0 5px 15px rgba(0,0,0,0.6) !important;
+}
+
+.statuscol_open {
+    background: #b71c1c;
+}
+
+.statuscol_closed {
+    background: #2e7d32;
+}
+
+.msNameRed, .taskoverdue {
+    font-size: 14px;
+    color: #b71c1c;
+    text-decoration: none;
+}
+
+.greenbar {
+    background: #00c853;
+}
+
+.redbar {
+    background: #D9D9D9;
+}
+
+.none_kanview_tlist {
+    background-color: #607d8b;
+    border: 1px solid #607d8b;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.nonenew_container .taskid-kan {
+    color: #607d8b;
+}
+
+.low_kanview_tlist {
+    color: #fff;
+    background-color: #00c853;
+    border: 1px solid #00c853;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.low_container .taskid-kan {
+    color: #00c853  ;
+}
+
+.medium_kanview_tlist {
+    background: #ffc107;
+    border: 1px solid #ffc107;
+    color: White;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+
+}
+
+.medium_container .taskid-kan{
+    color: #ffc107;
+}
+
+.high_kanview_tlist{
+    background: #b71c1c;
+    border: 1px solid #b71c1c;
+        box-shadow:0 5px 15px rgba(0,0,0,0.1);
+
+    
+}
+
+.high_container .taskid-kan{
+    color: #b71c1c;
+
+}
+
+.viewsel_bdr {
+    border-bottom: 2px solid #311b92;
+}
+
+
+.pri_High, .pri_high{
+    border-left: 2px solid #b71c1c;
+}
+
+.pri_High:hover, .pri_high:hover{
+    border: 1px solid #b71c1c;
+}
+
+
+.pri_Medium, .pri_medium{
+    border-left: 2px solid #ffc107;
+}
+
+.pri_Medium:hover, .pri_medium:hover{
+    border: 1px solid #ffc107;
+}
+
+.pri_Low, .pri_low{
+    border-left: 2px solid #00c853;
+}
+
+.pri_Low:hover, .pri_low:hover{
+    border: 1px solid #00c853;
+}
+
+.pri_None, .pri_none{
+    border-left: 2px solid #607d8b;
+}
+
+.pri_None:hover, .pri_none:hover{
+    border: 1px solid #607d8b;
+}
+
+
