@@ -1,12 +1,13 @@
-#topHePar, #tabmenu_370297000005361315 {
+#topHePar {
     background-color: #311b92 !important;
     box-shadow:0 5px 15px rgba(0,0,0,0.6) !important;
     /*color: #000;*/
 }
 
-, #pop-arw, #arwLeft {
-    background: #311b92 !important;
+#pop-arw, #arwLeft {
+    /*background: #311b92 !important;*/
 }
+
 .home-tab-morepop{
     background-color: #311b92 !important;
     box-shadow:0 5px 15px rgba(0,0,0,0.6) !important;
@@ -122,3 +123,26 @@
 }
 
 
+.plaintaskName {
+    color: #311b92;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.linkSmall {
+    font-size: 14px;
+    color: #2196f3;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+#homeheader {
+    /*width: 300px !important;*/
+    /*min-width: 300px !important;*/
+    /*max-width: 300px !important;*/
+}
+
+.h100vh {
+    /*height: 100vh;*/
+    /*width: 300px;*/
+}
